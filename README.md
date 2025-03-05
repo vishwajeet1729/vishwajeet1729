@@ -1,4 +1,4 @@
-### Hi there, I'm Darshan R <img src="https://github.com/darshanr27/darshanr27/blob/master/Assets/Hi.gif" width="22px">
+### Hi there, I'm ishwajeet <img src="https://github.com/vishwajeet1729/vishwajeet1729/blob/master/Assets/Hi.gif" width="22px">
 
 ---
 
@@ -14,16 +14,16 @@
 
 ### 🧰 Languages and Tools:
 
-<img align="left" alt="Python" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/python.png" />
-<img align="left" alt="Java" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/java.png" />
-<img align="left" alt="HTML5" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/sql.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/github.png" />
-<img align="left" alt="Figma" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/figma.png" />
+<img align="left" alt="Python" width="26px" src="https://github.com/vishwajeet1729/vishwajeet1729/blob/master/Assets/python.png" />
+<img align="left" alt="Java" width="26px" src="https://github.com/vishwajeet1729/vishwajeet1729/blob/master/Assets/java.png" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/vishwajeet1729/vishwajeet1729/blob/master/Assets/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://github.com/vishwajeet1729/vishwajeet1729/blob/master/Assets/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/vishwajeet1729/vishwajeet1729/blob/master/Assets/javascript.png" />
+<img align="left" alt="SQL" width="26px" src="https://github.com/vishwajeet1729/vishwajeet1729/blob/master/Assets/sql.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/vishwajeet1729/vishwajeet1729/blob/master/Assets/visual-studio-code.png" />
+<img align="left" alt="Git" width="26px" src="https://github.com/vishwajeet1729/vishwajeet1729/blob/master/Assets/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/vishwajeet1729/vishwajeet1729/blob/master/Assets/github.png" />
+<img align="left" alt="Figma" width="26px" src="https://github.com/vishwajeet1729/vishwajeet1729/blob/master/Assets/figma.png" />
 
 <br />
 <br />
@@ -32,24 +32,24 @@
 <!-- Profile Trophy -->
 ### 🏆 GitHub Profile Trophy:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=darshanr27&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=vishwajeet1729&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
 
 
 <!--   Stats -->
 ### 📊 GitHub Stats:
-![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=darshanr27&theme=nord&show_icons=true&count_private=true)
+![Darshan R github stats](https://github-readme-stats.vercel.app/api?username=vishwajeet1729&theme=nord&show_icons=true&count_private=true)
   
   
 <!--   Top Languages Using -->
 ### 👨‍💻 Top Languages Used*:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darshanr27&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darshanr27&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishwajeet1729&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vishwajeet1729&theme=nord_dark)
 
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
- [![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=darshanr27&theme=github)](https://github.com/darshanr27)
+ [![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishwajeet1729&theme=github)](https://github.com/vishwajeet1729)
 
  <br>
  <br>
@@ -70,7 +70,7 @@
 <a href="https://www.darshanr.in" target="_blank">
   <img align="center" alt="Darshan R | Portfolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/darshanr27/" target="_blank">
+<a href="https://www.linkedin.com/in/vishwajeet1729/" target="_blank">
   <img align="center" alt="Darshan R | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://twitter.com/darshan_r_27" target="_blank">
@@ -95,7 +95,7 @@
     
 <!-- retro visitor counter -->  
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/darshanr27/count.svg" />  
+  <img src="https://profile-counter.glitch.me/vishwajeet1729/count.svg" />  
 </p>
    
   ---
