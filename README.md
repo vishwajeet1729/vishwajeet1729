@@ -44,11 +44,6 @@
 No activity tracked
 ```
 
-<!--END_SECTION:waka-->
-
-| [Blogs](https://vishwajeet1729.github.io/) |[Games](https://vishwajeet1729.github.io/games/)  | [Books](https://vishwajeet1729.github.io/books/) | [Movies](https://vishwajeet1729.github.io/movies/) |
-
-
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
