@@ -14,7 +14,7 @@
 
 ### 🧰 Languages and Tools:
 
-<img align="left" alt="Python" width="26px" src="https://github.com/vishwajeet1729/vishwajeet1729/blob/master/Assets/python.png" />
+<img align="left" alt="Python" width="26px" src="https://github.com/vishwajeet1729/vishwajeet1729/Assets/python.png" />
 <img align="left" alt="Java" width="26px" src="https://github.com/vishwajeet1729/vishwajeet1729/blob/master/Assets/java.png" />
 <img align="left" alt="HTML5" width="26px" src="https://github.com/vishwajeet1729/vishwajeet1729/blob/master/Assets/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/vishwajeet1729/vishwajeet1729/blob/master/Assets/css.png" />
