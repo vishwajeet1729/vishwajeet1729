@@ -2,16 +2,6 @@
 
 ---
 
-<br />
-
-- 💻 Currently I'm working as a Python Developer
-- 🌱 I'm learning Full Stack Development
-- 👯 I’m looking to collaborate on Web Development Projects
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm in confusion, can you help me to choose the color for the website design
-
-<br />
-
 ### 🧰 Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://github.com/vishwajeet1729/vishwajeet1729/blob/master/Assets/python.png" />
