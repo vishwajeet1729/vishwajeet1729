@@ -1,4 +1,4 @@
-### Hi there, I'm ishwajeet <img src="https://github.com/vishwajeet1729/vishwajeet1729/blob/master/Assets/Hi.gif" width="22px">
+### Hi there, I'm ishwajeet <img src="https://github.com/vishwajeet1729/vishwajeet1729/Assets/Hi.gif" width="22px">
 
 ---
 
