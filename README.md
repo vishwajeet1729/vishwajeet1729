@@ -68,7 +68,7 @@
   </div>
 <p align="center">
 <a href="https://www.darshanr.in" target="_blank">
-  <img align="center" alt="Darshan R | Portfolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
+  <img align="center" alt="Vishwajeet | Portfolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/vishwajeet1729/" target="_blank">
   <img align="center" alt="Darshan R | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
@@ -98,9 +98,4 @@
   <img src="https://profile-counter.glitch.me/vishwajeet1729/count.svg" />  
 </p>
    
-  ---
-  *\*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of github-readme-stats*
-  
-  ---
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*
   
