@@ -45,8 +45,8 @@
  <br>
 
  ### 📈 Coding profile:
- 
-        ![image](https://github.com/user-attachments/assets/bcdb8358-15eb-4e2f-b467-78139fea71eb)
+
+![image](https://github.com/user-attachments/assets/bcdb8358-15eb-4e2f-b467-78139fea71eb)
 
 
 ![image](https://github.com/user-attachments/assets/3e627589-8965-4a18-ab0c-81f7071f1a50)
