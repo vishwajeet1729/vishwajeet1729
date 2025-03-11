@@ -43,6 +43,16 @@
 
  <br>
  <br>
+
+ ### 📈 Coding profile:
+        ![image](https://github.com/user-attachments/assets/bcdb8358-15eb-4e2f-b467-78139fea71eb)
+
+
+![image](https://github.com/user-attachments/assets/3e627589-8965-4a18-ab0c-81f7071f1a50)
+
+  <br>
+ <br>
+ 
  
 [![An image of @darshanr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darshanr)](https://holopin.io/@darshanr)
 
@@ -73,7 +83,7 @@
   <img align="center" alt="Darshan R | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.darshanr.in/resume">
-    <img align="center" alt="Darshan R | Resume" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
+    <img align="center" alt=" | Resume" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
 </a> &nbsp;&nbsp;
 <p>
   
